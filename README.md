@@ -11,5 +11,11 @@ npm install
 ## Bundling
 
 ```
-npx webpack
+npm run build
+```
+
+## Run dev server
+
+```
+npm run dev
 ```
